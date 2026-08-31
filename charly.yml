@@ -1,7 +1,7 @@
 version: 2026.232.0520
 pipewire:
     candy:
-        version: 2026.149.1500
+        version: 2026.243.0100
         description: |
             PipeWire audio/media server with PulseAudio compat and WirePlumber, supervised in the container
             Installs the PipeWire media server, the pipewire-pulse PulseAudio
@@ -12,7 +12,7 @@ pipewire:
             container desktops (sway-desktop) get working audio. Verifiable by
             the installed binaries, the launch wrapper, and the running service.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.239.1300'
+            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
         distro:
             arch:
                 package:
