@@ -10,7 +10,7 @@ pipewire:
             container desktops (sway-desktop) get working audio. Verifiable by
             the installed binaries, the launch wrapper, and the running service.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
+            - '@github.com/opencharly/layer-supervisord:v2026.314.0710'
         distro:
             arch:
                 package:
