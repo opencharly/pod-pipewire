@@ -51,5 +51,4 @@ charly start my-desktop
 
 - Owning skill: `/charly-selkies:pipewire` — the candy properties, the wrapper,
   and the audio service.
-- `/charly-selkies:sway-desktop` — the composition that includes pipewire.
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
