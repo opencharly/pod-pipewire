@@ -19,7 +19,6 @@ Canonical files:
 - `/charly-selkies:pipewire` — the owning skill: the candy properties, the
   wrapper, the audio service, and verification. Load before editing, building,
   deploying, or troubleshooting this candy.
-- `/charly-selkies:sway-desktop` — the composition that includes pipewire.
 - `/charly-image:layer` — the candy authoring reference (`charly.yml` schema,
   `plan:` step verbs incl. `copy:` / `check:`, service declarations).
 - `/charly-check:check` — the check/R10 framework (`charly check box`,
